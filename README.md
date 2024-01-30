@@ -46,6 +46,8 @@ P3 # 文件格式
 
 ## 4.1 光线 Rays
 
+![Alt text](img/ray_function.png)
+
 定义光线形式：
 
 $$
