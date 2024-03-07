@@ -1,5 +1,11 @@
 #gamedev #raytracing
 - [# Ray Tracing in One Weekend](https://raytracing.github.io/v3/books/RayTracingInOneWeekend.html#overview)
+
+# 效果展示
+
+![Outputs](./img/outputs.png)
+
+
 ---
 # 1 总览
 
@@ -445,4 +451,3 @@ class hittable_list : public hittable {
 
 #endif
 ```
-
